@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efm23", "efm23.csproj", "{F7D7DBE0-7C21-4446-961D-2CE3C4E6038E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D7DBE0-7C21-4446-961D-2CE3C4E6038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D7DBE0-7C21-4446-961D-2CE3C4E6038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D7DBE0-7C21-4446-961D-2CE3C4E6038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D7DBE0-7C21-4446-961D-2CE3C4E6038E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ACCBA7E-C27B-46CA-A8A2-4C749F0C39D7}
+	EndGlobalSection
+EndGlobal
